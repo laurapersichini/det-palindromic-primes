@@ -4,16 +4,6 @@
 //  Created by Laura Persichini on 2020-10-10.
 //  Copyright © 2020 Laura Persichini. All rights reserved.
 // *
-// Student Name: Laura Persichini
-// ID#: 20894127
-
-// SYDE 121 Assignment #2
-// File Name: a2_q1.cpp
-
-// I hereby declare that this code, submitted for credit for the course
-// SYDE121, is a product of my own efforts. This coded solution has
-// not been plagiarized from other sources and has not been knowingly
-// plagiarized by others.
 
 // Project: Determining palindromic primes (question #1)
 // Purpose: Output prime numbers and determine if they are palindromic and their
